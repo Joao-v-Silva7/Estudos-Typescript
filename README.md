@@ -1,0 +1,2 @@
+# Estudos-Typescript
+praticando typescript
